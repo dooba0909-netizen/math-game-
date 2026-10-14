@@ -1,0 +1,8 @@
+{
+  "name": "Remix The House That Remembers",
+  "description": "A psychological horror retro adventure game where mathematics wards off the darkness. Solve conic section puzzles and uncover the truth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
